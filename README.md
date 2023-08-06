@@ -1,4 +1,6 @@
 # Roda API
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbestwebua%2Froda-api.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbestwebua%2Froda-api?ref=badge_shield)
+
 
 Example of simple API with Roda.
 
@@ -35,3 +37,7 @@ bin/console
 ## Endpoints
 
 `POST /users/create`
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbestwebua%2Froda-api.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbestwebua%2Froda-api?ref=badge_large)
